@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WindowCalculator/1.0.0": {
+        "dependencies": {
+          "ElectricalAppliances": "1.0.0",
+          "Factory": "1.0.0"
+        },
+        "runtime": {
+          "WindowCalculator.dll": {}
+        }
+      },
+      "ElectricalAppliances/1.0.0": {
+        "runtime": {
+          "ElectricalAppliances.dll": {}
+        }
+      },
+      "Factory/1.0.0": {
+        "dependencies": {
+          "ElectricalAppliances": "1.0.0"
+        },
+        "runtime": {
+          "Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WindowCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ElectricalAppliances/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Factory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ElectricalAppliances/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ElectricalAppliances.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ElectricalAppliances.dll": {}
+        }
+      },
+      "Factory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ElectricalAppliances": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Factory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Factory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElectricalAppliances/1.0.0": {
+      "type": "project",
+      "path": "../../ElectricalAppliances/ElectricalAppliances/ElectricalAppliances.csproj",
+      "msbuildProject": "../../ElectricalAppliances/ElectricalAppliances/ElectricalAppliances.csproj"
+    },
+    "Factory/1.0.0": {
+      "type": "project",
+      "path": "../../Factory/Factory/Factory.csproj",
+      "msbuildProject": "../../Factory/Factory/Factory.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ElectricalAppliances >= 1.0.0",
+      "Factory >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DoiR\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\Interface\\WindowCalculator\\WindowCalculator.csproj",
+      "projectName": "WindowCalculator",
+      "projectPath": "C:\\Хранилище\\Git_THP\\THP\\Interface\\WindowCalculator\\WindowCalculator.csproj",
+      "packagesPath": "C:\\Users\\DoiR\\.nuget\\packages\\",
+      "outputPath": "C:\\Хранилище\\Git_THP\\THP\\Interface\\WindowCalculator\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DoiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
+              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj"
+            },
+            "C:\\Хранилище\\Git_THP\\THP\\Factory\\Factory\\Factory.csproj": {
+              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\Factory\\Factory\\Factory.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
