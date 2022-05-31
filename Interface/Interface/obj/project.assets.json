@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\Interface\\Interface\\Interface.csproj",
+      "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\THP\\Interface\\Interface\\Interface.csproj",
       "projectName": "Interface",
-      "projectPath": "C:\\Хранилище\\Git_THP\\THP\\Interface\\Interface\\Interface.csproj",
+      "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\Interface\\Interface\\Interface.csproj",
       "packagesPath": "C:\\Users\\DoiR\\.nuget\\packages\\",
-      "outputPath": "C:\\Хранилище\\Git_THP\\THP\\Interface\\Interface\\obj\\",
+      "outputPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\Interface\\Interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DoiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
-              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj"
+            "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
+              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj"
             },
-            "C:\\Хранилище\\Git_THP\\THP\\Factory\\Factory\\Factory.csproj": {
-              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\Factory\\Factory\\Factory.csproj"
+            "C:\\Хранилище\\Git_THP\\THP\\THP\\Factory\\Factory\\Factory.csproj": {
+              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\Factory\\Factory\\Factory.csproj"
             }
           }
         }

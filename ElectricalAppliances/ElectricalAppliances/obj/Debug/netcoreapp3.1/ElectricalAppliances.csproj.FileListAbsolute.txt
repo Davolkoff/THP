@@ -7,3 +7,12 @@ C:\Хранилище\Git_THP\ElectricalAppliances\ElectricalAppliances\obj\Debu
 C:\Хранилище\Git_THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.csproj.CoreCompileInputs.cache
 C:\Хранилище\Git_THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.dll
 C:\Хранилище\Git_THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.pdb
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\bin\Debug\netcoreapp3.1\ElectricalAppliances.deps.json
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\bin\Debug\netcoreapp3.1\ElectricalAppliances.dll
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\bin\Debug\netcoreapp3.1\ElectricalAppliances.pdb
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.csprojAssemblyReference.cache
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.AssemblyInfoInputs.cache
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.AssemblyInfo.cs
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.csproj.CoreCompileInputs.cache
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.dll
+C:\Хранилище\Git_THP\THP\THP\ElectricalAppliances\ElectricalAppliances\obj\Debug\netcoreapp3.1\ElectricalAppliances.pdb

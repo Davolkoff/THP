@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\Interface\\WindowCalculator\\WindowCalculator.csproj",
+      "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\THP\\Interface\\WindowCalculator\\WindowCalculator.csproj",
       "projectName": "WindowCalculator",
-      "projectPath": "C:\\Хранилище\\Git_THP\\THP\\Interface\\WindowCalculator\\WindowCalculator.csproj",
+      "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\Interface\\WindowCalculator\\WindowCalculator.csproj",
       "packagesPath": "C:\\Users\\DoiR\\.nuget\\packages\\",
-      "outputPath": "C:\\Хранилище\\Git_THP\\THP\\Interface\\WindowCalculator\\obj\\",
+      "outputPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\Interface\\WindowCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DoiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,11 +72,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
-              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj"
+            "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
+              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj"
             },
-            "C:\\Хранилище\\Git_THP\\THP\\Factory\\Factory\\Factory.csproj": {
-              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\Factory\\Factory\\Factory.csproj"
+            "C:\\Хранилище\\Git_THP\\THP\\THP\\Factory\\Factory\\Factory.csproj": {
+              "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\Factory\\Factory\\Factory.csproj"
             }
           }
         }

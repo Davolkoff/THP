@@ -80,34 +80,43 @@ namespace WindowCalculator
         {
             try
             {
-                if (ProductCalculator.indInstrument != -1)
+                if (Convert.ToInt32(listText[1].Text) > 0)
                 {
-                    calc.EditInstrument(
-                        listText[0].Text,
-                        Convert.ToInt32(listText[1].Text),
-                        Convert.ToInt32(listText[2].Text),
-                        Convert.ToInt32(listText[3].Text),
-                        listText[4].Text,
-                        Convert.ToInt32(listText[5].Text),
-                        Convert.ToInt32(listText[6].Text));
-                    ProductCalculator.indInstrument = -1;
+
+                    if (ProductCalculator.indInstrument != -1)
+                    {
+                        calc.EditInstrument(
+                            listText[0].Text,
+                            Convert.ToInt32(listText[1].Text),
+                            Convert.ToInt32(listText[2].Text),
+                            Convert.ToInt32(listText[3].Text),
+                            listText[4].Text,
+                            Convert.ToInt32(listText[5].Text),
+                            Convert.ToInt32(listText[6].Text));
+                        ProductCalculator.indInstrument = -1;
+                    }
+                    else
+                    {
+                        calc.AddingInstrument(
+                            listText[0].Text,
+                            Convert.ToInt32(listText[1].Text),
+                            Convert.ToInt32(listText[2].Text),
+                            Convert.ToInt32(listText[3].Text),
+                            listText[4].Text,
+                            Convert.ToInt32(listText[5].Text),
+                            Convert.ToInt32(listText[6].Text));
+                    }
+                    this.Hide();
+                    Form1 form = new Form1();
+                    form.ShowDialog();
+
+                    this.Dispose();
                 }
                 else
                 {
-                    calc.AddingInstrument(
-                        listText[0].Text,
-                        Convert.ToInt32(listText[1].Text),
-                        Convert.ToInt32(listText[2].Text),
-                        Convert.ToInt32(listText[3].Text),
-                        listText[4].Text,
-                        Convert.ToInt32(listText[5].Text),
-                        Convert.ToInt32(listText[6].Text));
+                    CreateLabel("Enter right price", 360);
+                    button1.BackColor = System.Drawing.Color.FromName("Coral");
                 }
-                this.Hide();
-                Form1 form = new Form1();
-                form.ShowDialog();
-
-                this.Dispose();
             }
             catch (System.FormatException)
             {

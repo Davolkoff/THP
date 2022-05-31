@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {}
+    "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {}
   },
   "projects": {
-    "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
+    "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj",
+        "projectUniqueName": "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj",
         "projectName": "ElectricalAppliances",
-        "projectPath": "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj",
+        "projectPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\ElectricalAppliances.csproj",
         "packagesPath": "C:\\Users\\DoiR\\.nuget\\packages\\",
-        "outputPath": "C:\\Хранилище\\Git_THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\obj\\",
+        "outputPath": "C:\\Хранилище\\Git_THP\\THP\\THP\\ElectricalAppliances\\ElectricalAppliances\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DoiR\\AppData\\Roaming\\NuGet\\NuGet.Config",
